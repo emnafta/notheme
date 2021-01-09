@@ -1,6 +1,16 @@
 ## Intro
 
-Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages on our site, from the content in your Markdown files.
+![Image](https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg)
+
+### How to use Github:
+
+Github provides resources for learning, such as:
+
+- [GitHub Guides](https://guides.github.com/)
+- [GitHub Video Guides](youtube.com/githubguides) &
+- [GitHub Docs](https://docs.github.com/en)
+
+GitHub guides include the [Hello World Guide](https://guides.github.com/activities/hello-world/) and [What is Markdown?](https://guides.github.com/features/mastering-markdown/).
 
 ## Development Resources
 
@@ -42,6 +52,13 @@ Read more at link...
 ### Minecraft (Python)
 
 Python is the programming language we are currently focused on learning. We have started learning with [Minecraft](https://emnafta.github.io/minecraft-python/), to make the learning experience more enjoyable, relatable and applicable.
+
+---
+
+Other Info (to be deleted...)
+==
+
+Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages on our site, from the content in your Markdown files.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
