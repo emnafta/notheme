@@ -1,9 +1,7 @@
   
 ## Intro
 
-<p align="center">
 <img src="https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg" width=30% height=30% >
-
 
 ## How to use Github:
 
@@ -40,7 +38,7 @@ A review of the literature shows that the following languages are most often use
 - Java
 - Javascript
 
-#### Sources: 
+## Sources: 
 
 [Freecodecamp, Most popular languages used in blockchain (2019)](https://www.freecodecamp.org/news/the-most-popular-programming-languages-used-in-blockchain-development-5133a0a207dc/)
 
@@ -52,7 +50,7 @@ Ethereum — Technically Ethereum functions as an Ethereum Virtual Machine (EVM)
 
 Read more at link...
 
-### Python Development via Minecraft
+## Python Development via Minecraft
 
 Python is the programming language we are currently focused on learning. We have started learning with [Minecraft](https://emnafta.github.io/minecraft-python/), to make the learning experience more enjoyable, relatable and applicable.
 
