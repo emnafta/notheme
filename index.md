@@ -1,14 +1,18 @@
 ## Development Resources
 
-MDN Development Resources [Link](https://https://developer.mozilla.org/en-US/)
+The following three sites provide free resources for learning different types of computer science and languages:
+
+MDN Development Resources [Link](https://developer.mozilla.org/en-US/)
 
 Devdocs Development Resources [Link](https://devdocs.io/)
 
 w3schoools Development Resources [Link](https://https://www.w3schools.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Python
+
+Python is the programming language we are currently focused on learning. We have started learning with [Minecraft](https://emnafta.github.io/minecraft/), to make the learning experience more enjoyable, relatable and applicable.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
