@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Development Resources
 
-You can use the [editor on GitHub](https://github.com/emnafta/dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MDN Development Resources [Link](https://https://developer.mozilla.org/en-US/)
+
+Devdocs Development Resources [Link](https://devdocs.io/)
+
+w3schoools Development Resources [Link](https://https://www.w3schools.com/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
