@@ -5,6 +5,10 @@
 <img src="https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg" width=30% height=30% >
 </html>
 
+<p align="center">
+  <img width=30% src="https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg">
+</p>
+
 ## How to use Github:
 
 Getting acquainted with GitHub should be a priority. Github provides resources for learning, such as:
