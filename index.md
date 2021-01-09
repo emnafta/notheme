@@ -1,18 +1,21 @@
+  
 ## Intro
 
-![Image](https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg)
+<p align="center">
+<img src="https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg" width=30% height=30% >
 
-### How to use Github:
 
-Github provides resources for learning, such as:
+## How to use Github:
+
+Getting acquainted with GitHub should be a priority. Github provides resources for learning, such as:
 
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Video Guides](youtube.com/githubguides) &
 - [GitHub Docs](https://docs.github.com/en)
 
-GitHub guides include the [Hello World Guide](https://guides.github.com/activities/hello-world/) and [What is Markdown?](https://guides.github.com/features/mastering-markdown/).
+GitHub guides include the [Hello World Guide](https://guides.github.com/activities/hello-world/) and [What is Markdown?](https://guides.github.com/features/mastering-markdown/), among others.
 
-## Development Resources
+## Learning Development- Resources
 
 The following three sites provide free resources for learning different types of computer science and languages:
 
@@ -24,9 +27,9 @@ w3schoools Development Resources [Link](https://https://www.w3schools.com/)
 
 Freecodecamp Development Resources [Link](https://www.freecodecamp.org/)
 
-### Projects 
+## Projects 
 
-### Blockchain Development Learning
+## Blockchain Development Learning
 
 A review of the literature shows that the following languages are most often used by Ethereum developers:
 - Solidity
@@ -49,7 +52,7 @@ Ethereum — Technically Ethereum functions as an Ethereum Virtual Machine (EVM)
 
 Read more at link...
 
-### Minecraft (Python)
+### Python Development via Minecraft
 
 Python is the programming language we are currently focused on learning. We have started learning with [Minecraft](https://emnafta.github.io/minecraft-python/), to make the learning experience more enjoyable, relatable and applicable.
 
