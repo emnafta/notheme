@@ -41,7 +41,7 @@ Read more at link...
 
 ### Minecraft (Python)
 
-Python is the programming language we are currently focused on learning. We have started learning with [Minecraft](https://emnafta.github.io/minecraft/), to make the learning experience more enjoyable, relatable and applicable.
+Python is the programming language we are currently focused on learning. We have started learning with [Minecraft](https://emnafta.github.io/minecraft-python/), to make the learning experience more enjoyable, relatable and applicable.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
